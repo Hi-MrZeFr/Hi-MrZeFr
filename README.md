@@ -9,3 +9,4 @@ SYSTEMWindows11/SYSTEMWindows11 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 ![Metrics](https://metrics.lecoq.io/SYSTEMWindows11?template=classic&config.timezone=Asia%2FShanghai)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SYSTEMWindows11)]
