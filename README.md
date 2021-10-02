@@ -8,3 +8,4 @@
 SYSTEMWindows11/SYSTEMWindows11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Metrics](https://metrics.lecoq.io/SYSTEMWindows11?template=classic&config.timezone=Asia%2FShanghai)
