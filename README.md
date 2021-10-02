@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SYSTEMWindows11)]
 ![MrZeFr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SYSTEMWindows11&layout=compact&hide_border=true&langs_count=10)
 ![trophy](https://github-profile-trophy.vercel.app/?username=SYSTEMWindows11)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World;Welcome)
 
