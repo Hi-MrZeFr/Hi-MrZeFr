@@ -2,7 +2,7 @@
 - 👀 喜欢电脑！
 - 🌱 我喜欢Hexo
 - 💞️ 喜欢研究杂七杂八的东西
-- 📫 我的个人网站: https://www.MrZeFr.ml
+- 📫 我的个人网站: https://MrZeFr.top
 
 <!---
 SYSTEMWindows11/SYSTEMWindows11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
