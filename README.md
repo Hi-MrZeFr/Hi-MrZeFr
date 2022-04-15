@@ -9,7 +9,6 @@
 SYSTEMWindows11/SYSTEMWindows11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://cdn.jsdelivr.net/gh/SYSTEMWindows11/File@main/Code.gif">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World;Welcome;Welcome+to+MrZeFr's+GitHub+HomePage!)
 ![Metrics](https://metrics.lecoq.io/SYSTEMWindows11?template=classic&config.timezone=Asia%2FShanghai)
