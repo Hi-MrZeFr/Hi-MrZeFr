@@ -1,9 +1,10 @@
-[![Hi there!, MrZeFr](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=MrZeFr&title=Hi%20there%21)](https://mrzefr.cn)
-- 👋 Hello,我是一名小学生
-- 👀 喜欢电脑！
-- 🌱 我喜欢Hexo
-- 💞️ 喜欢研究杂七杂八的东西
-- 📫 我的个人网站: https://www.mrzefr.cn
+[![Hi there!👋, MrZeFr](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=MrZeFr&title=Hi%20there%21👋)](https://mrzefr.cn)
+
+Hello, I'm MrZeFr. He is a self-taught information technology scholar. I like computer and code. I come from Zhongshan, Guangdong, China.
+
+We must stand on the shoulders of giants to be successful! I am now learning web technology. My dream is to become a computer engineer and network engineer!
+
+My Personal website is https://www.mrzefr.cn
 
 <!---
 SYSTEMWindows11/SYSTEMWindows11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
