@@ -12,7 +12,7 @@ I am now learning web technology. My dream is to become a computer engineer and 
 
 My Personal website is https://www.mrzefr.cn
 
-<img src="https://cdn.mrzefr.cn/code.gif">
+<img src="https://cdn.mrzefr.cn/code.gif" width="500" height="320" style="max-width: 100%;">
 
 <!---
 SYSTEMWindows11/SYSTEMWindows11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
