@@ -4,13 +4,15 @@
 
 我现在正在学习Web技术,梦想是成为一名电脑工程师和网络工程师!
 
-My personal website is https://www.mrzefr.cn
+我的个人网站是: https://www.mrzefr.cn
 
 Hello, I'm MrZeFr. He is a self-taught information technology scholar. I like computer and code. I come from Zhongshan, Guangdong, China.
 
 I am now learning web technology. My dream is to become a computer engineer and network engineer!
 
 My Personal website is https://www.mrzefr.cn
+
+<img src="https://cdn.mrzefr.cn/code.gif">
 
 <!---
 SYSTEMWindows11/SYSTEMWindows11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
