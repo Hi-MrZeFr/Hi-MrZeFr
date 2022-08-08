@@ -32,7 +32,6 @@ My Personal website is https://www.mrzefr.cn
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
 
-![Metrics](https://metrics.lecoq.io/Hi-MrZeFr?template=classic&config.timezone=Asia%2FShanghai)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hi-MrZeFr)
 ![MrZeFr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-MrZeFr&layout=compact&hide_border=true&langs_count=10)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Hi-MrZeFr)
