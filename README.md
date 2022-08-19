@@ -33,6 +33,7 @@ My Personal website is https://blog.mrzefr.cn
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
+![svg](https://https://cdn1.tianli.top/gh/Hi-MrZeFr/Hi-MrZeFr/assets/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hi-MrZeFr)
 ![MrZeFr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-MrZeFr&layout=compact&hide_border=true&langs_count=10)
