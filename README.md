@@ -9,7 +9,7 @@ Hello, I'm MrZeFr. He is a self-taught information technology scholar. I like co
 
 I am now learning web technology. My dream is to become a computer engineer and network engineer!
 
-My Personal website is https://www.mrzefr.cn
+My Personal website is https://blog.mrzefr.cn
 
 可能是一个逆转World的学渣哦!
 
