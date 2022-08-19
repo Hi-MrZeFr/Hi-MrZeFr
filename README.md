@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://www.mrzefr.cn/">
+  <a href="https://blog.mrzefr.cn/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there%F0%9F%91%8B;print(%27Hello%20World%27)">
   </a>
 </h1>
@@ -33,7 +33,7 @@ My Personal website is https://blog.mrzefr.cn
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-![svg](https://https://cdn1.tianli.top/gh/Hi-MrZeFr/Hi-MrZeFr/assets/github-contribution-grid-snake.svg)
+![svg](https://https://cdn1.tianli0.top/gh/Hi-MrZeFr/Hi-MrZeFr/assets/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hi-MrZeFr)
 ![MrZeFr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hi-MrZeFr&layout=compact&hide_border=true&langs_count=10)
