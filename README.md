@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there%F0%9F%91%8B;print(%27Hello%20World%27)">
   </a>
 </h1>
-<h2>Hi there!👋</h2>
+<h2 align="center">Hello there~👋</h2>
+<h3>Welcome</h3>
 
 Hello, I'm MrZeFr. He is a self-taught information technology scholar. I like computer and code. I come from Zhongshan, Guangdong, China.
 
@@ -42,9 +43,7 @@ My Personal website is https://blog.mrzefr.cn
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hi-MrZeFr)
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Hi-MrZeFr&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
-<style>
-  background:linear-gradient(-45deg,#ee7752,#ce3e75,#23a6d5,#23d5ab);
-</style>
+
 
 
 
