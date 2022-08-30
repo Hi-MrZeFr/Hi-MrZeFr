@@ -42,6 +42,9 @@ My Personal website is https://blog.mrzefr.cn
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hi-MrZeFr)
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=Hi-MrZeFr&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
+<style>
+  background:linear-gradient(-45deg,#ee7752,#ce3e75,#23a6d5,#23d5ab);
+</style>
 
 
 
