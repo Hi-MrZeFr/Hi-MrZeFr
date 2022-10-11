@@ -7,11 +7,11 @@
 <h2>欢迎</h2>
 <h3>Welcome</h3>
 
-你好👋, 我是MrZeFr。他是一位自学成才的信息技术学者，目前最大年龄为10岁。我喜欢计算机和代码,我来自中国广东中山。
+你好👋, 我是MrZeFr。我是一位自学成才的信息技术学者，目前最大年龄为10岁。我喜欢计算机和代码,我来自中国广东中山。
 我现在正在学习网络技术。我的梦想是成为一名优秀的计算机工程师和网络工程师,我相信我可以!
 我的个人博客是: https://blog.mrzefr.cn
 
-Hello 👋, I'm MrZeFr. He is a self-taught information technology scholar. At present, the maximum age is 10. I like computer and code. I'm from Zhongshan, Guangdong, China.
+Hello 👋, I'm MrZeFr. My is a self-taught information technology scholar. At present, the maximum age is 10. I like computer and code. I'm from Zhongshan, Guangdong, China.
 I'm learning network technology now. My dream is to become an excellent computer engineer and network engineer. I believe I can!
 My personal blog is: https://blog.mrzefr.cn
 
