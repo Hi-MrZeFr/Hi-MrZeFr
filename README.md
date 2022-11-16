@@ -19,6 +19,10 @@ My personal blog is: https://blog.mrzefr.cn
 <br>
 It may be a scum to reverse the world!
 
+本人最想学习Kali,当黑客。
+<br>
+I want to learn Kali and be a hacker.
+
 ✔️ 学习完毕 - Learning completed:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
