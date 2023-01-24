@@ -31,7 +31,7 @@ I want to learn Kali and be a hacker.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![MicroPython]([https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python](https://img.shields.io/badge/-MicroPython-pink?style=flat-square&logo=MicroPython))
+![MicroPython](https://img.shields.io/badge/-MicroPython-pink?style=flat-square&logo=MicroPython)
 
 📚️ 计划学习 - Planned learning:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
