@@ -25,16 +25,16 @@ I want to learn Kali and be a hacker.
 
 ✔️ 学习完毕 - Learning completed:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 💪 正在学习 - I am learning: 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![MicroPython](https://img.shields.io/badge/-MicroPython-pink?style=flat-square&logo=MicroPython)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 📚️ 计划学习 - Planned learning:
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&logoColor=white)
 
